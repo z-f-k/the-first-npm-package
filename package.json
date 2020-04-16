@@ -1,0 +1,19 @@
+{
+  "name": "the-first-npm-package",
+  "version": "1.0.0",
+  "description": "制作一个开源npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z-f-k/the-first-npm-package.git"
+  },
+  "author": "yaoyi <lwy978@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/z-f-k/the-first-npm-package/issues"
+  },
+  "homepage": "https://github.com/z-f-k/the-first-npm-package#readme"
+}
